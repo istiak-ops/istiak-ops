@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** ✅Python, ✅Golang, ✅Rust, ✅Bash, ✅YAML  
+- **Languages:** ✅Python, ✅Golang, Rust, ✅Bash, ✅YAML  
 - **IaC:** ✅Terraform,✅Terragrunt, ✅OpenTofu, ✅Crossplane, ✅Ansible, ✅Packer  
 - **Containers & Orchestration:** ✅Docker, ✅Kubernetes, ✅Helm, ✅Kafka
 - **cert-manager:** ✅HasiCorp Vault, ✅Traefik, ✅AWS ACM  

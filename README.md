@@ -24,7 +24,7 @@
 - **Database:** ✅PostgreSQL(SQL), ✅MongoDB(NoSQL), ✅Redis(in-memory), ✅PrompQL(Time-Series)
 - **OS:** ✅Linux (Ubuntu, Red Hat)
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,rust,bash,terraform,ansible,docker,kubernetes,kafka,rabbitmq,jenkins,git,github,aws,azure,gcp,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,rust,bash,terraform,ansible,docker,kubernetes,kafka,rabbitmq,jenkins,git,github,aws,azure,gcp,postgresql,mongodb,redis,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
 
 ---
 

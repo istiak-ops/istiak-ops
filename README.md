@@ -21,6 +21,7 @@
 - **CI/CD:** ✅GitHub Actions, ✅Jenkins, ✅GitLab CI, ✅Trivy, ✅ArgoCD, ✅SonarQube, ✅OWASP  
 - **Cloud:** ✅AWS(EC2,S3,VPC,RDS,Lambda,API gateway,EKS), Azure, GCP
 - **Monitoring:** ✅CloudWatch, ✅Prometheus, ✅Grafana, ✅Loki, ✅ElasticSearch, ✅OpenSearch, ✅Jaeger
+- **Database:** ✅PostgreSQL(SQL), ✅MongoDB(NoSQL), ✅Redis(in-memory), ✅PrompQL(Time-Series)
 - **OS:** ✅Linux (Ubuntu, Red Hat)
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,rust,bash,terraform,ansible,docker,kubernetes,kafka,rabbitmq,jenkins,git,github,aws,azure,gcp,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)

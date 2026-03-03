@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** ✅Python, ✅Golang, Rust, ✅Bash, ✅YAML  
 - **IaC:** ✅Terraform,✅Terragrunt, ✅OpenTofu, ✅Crossplane, ✅Ansible, ✅Packer  
@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 - **Integration workflows** — building modular, scalable systems that connect services and automate pipelines.
 - **DevSecOps** — embedding security into every phase of the DevOps lifecycle, from CI/CD to runtime.
 - **Infrastructure as Code (IaC)** — mastering tools like Terraform and Ansible to provision, manage, and audit infrastructure declaratively.
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|

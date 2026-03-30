@@ -75,8 +75,8 @@ My engineering focus is on reducing cloud costs, eliminating operational bottlen
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=istiak-ops&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiak-ops&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=istiak-ops&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=istiak-ops&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
 ---

@@ -61,7 +61,7 @@ My engineering focus is on reducing cloud costs, eliminating operational bottlen
 
 ### 🏆 Featured Projects
 
-* **[Agentic Internal Developer Platform (In Progress)](https://github.com/istiak-ops/Cloud-Native-Agentic-IDP)** 
+* **[Agentic Internal Developer Platform (In Progress)](https://github.com/istiak-ops/cloud-native-agentic-IDP)** 
   *An AI-driven Platform Copilot integrating Claude with Kubernetes via MCP, ArgoCD, and Crossplane for autonomous infrastructure provisioning.*
 
 * **[Cloud-Native AWS MERN Deployment](https://github.com/istiak-ops/marn-full-stack-app)** 

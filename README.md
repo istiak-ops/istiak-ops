@@ -83,14 +83,14 @@ My engineering focus is on reducing cloud costs, eliminating operational bottlen
 
 ## 🌐 Connect with Me  
 
-<a href="https://www.linkedin.com/in/istiak-devops/" target="_blank">
+<a href="https://www.linkedin.com/in/istiak-ops/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Istiak-blue?style=flat&logo=linkedin" />
 </a>
 <a href="https://github.com/istiak-ops" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-istiak--devsecops-black?style=flat&logo=github" />
 </a>
 <a href="mailto:istiak@example.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/Email-istiak.ahmed.devsecops@gmail.com-red?style=flat&logo=gmail" />
+  <img alt="Email" src="https://img.shields.io/badge/Email-istiak.ops@gmail.com-red?style=flat&logo=gmail" />
 </a>
 
 ---
